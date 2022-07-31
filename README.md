@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+Selamat Datang di desktop-tutorial
 
-Selamat Datang di HyukaNode
+Disini saya akan berbagi informasi mengenai tutorial testnet yang saya kerjakan juga.
 
-Disini list testnet yang kami jalankan saat ini
+
